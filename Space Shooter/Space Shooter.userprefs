@@ -1,18 +1,19 @@
-﻿<Properties StartupConfiguration="{6752D7FE-63E4-475F-2082-7005DF7313CA}|Unit Tests">
+﻿<Properties StartupConfiguration="{28FCF307-BCEB-DF00-C466-08C29A16E02D}|Unit Tests">
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
   <MonoDevelop.Ide.DebuggingService.PinnedWatches />
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
     <BreakpointStore />
   </MonoDevelop.Ide.DebuggingService.Breakpoints>
-  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\_Scripts\DestroyByTime.cs">
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\_Scripts\PlayerController.cs">
     <Files>
-      <File FileName="Assets\_Scripts\PlayerController.cs" Line="32" Column="2" />
+      <File FileName="Assets\_Scripts\PlayerController.cs" Line="54" Column="1" />
       <File FileName="Assets\_Scripts\DestroyByBoundary.cs" Line="6" Column="8" />
       <File FileName="Assets\_Scripts\RandomRotator.cs" Line="12" Column="57" />
       <File FileName="Assets\_Scripts\DestroyByContact.cs" Line="23" Column="2" />
       <File FileName="Assets\_Scripts\GameController.cs" Line="34" Column="2" />
-      <File FileName="Assets\_Scripts\DestroyByTime.cs" Line="6" Column="2" />
-      <File FileName="Assets\_Scripts\Mover.cs" Line="8" Column="2" NotebookId="1" />
+      <File FileName="Assets\_Scripts\DestroyByTime.cs" Line="12" Column="2" />
+      <File FileName="Assets\_Scripts\Mover.cs" Line="16" Column="1" NotebookId="1" />
     </Files>
   </MonoDevelop.Ide.Workbench>
   <MultiItemStartupConfigurations />
